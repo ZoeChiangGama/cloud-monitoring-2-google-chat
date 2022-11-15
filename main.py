@@ -3,7 +3,7 @@ import json
 import requests
 
 
-GOOGLE_CHAT_WEBHOOK_URL = 'https://chat.googleapis.com/v1/spaces/xxxxxxxxxxx/messages?key=xxxxxxxxxxx...'
+GOOGLE_CHAT_WEBHOOK_URL = 'https://chat.googleapis.com/v1/spaces/AAAAccb78-o/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=HEQcRPKqxyXLl72CapqcfsKJZHgg9mZjNsro-4sT0SE%3D'
 MESSAGE_TEMPLATE = """
 {{
     "cards": [
